@@ -40,7 +40,7 @@ cd $HOME
 mkdir node1
 cd node1
 wget -O docker-compose.yaml https://raw.githubusercontent.com/tinnguyen162002/subtest/main/docker-compose.yaml
-wget -O .env https://raw.githubusercontent.com/owlstake/testnet/main/subspace/.env
+wget -O .env https://raw.githubusercontent.com/tinnguyen162002/subtest/main/.env
 ```
 ### you can check which port you are using by this command
 ```
